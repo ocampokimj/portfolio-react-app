@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-app/static/css/main.e7a5e937.css",
+    "main.js": "/portfolio-react-app/static/js/main.8478f860.js",
+    "static/media/Portfolio-shopping.mov": "/portfolio-react-app/static/media/Portfolio-shopping.54e79428553a548c05e1.mov",
+    "static/media/form-validation.png": "/portfolio-react-app/static/media/form-validation.5809fcf49f75052f7034.png",
+    "static/media/shopping-cart-shop.png": "/portfolio-react-app/static/media/shopping-cart-shop.72aa243838ebb06e33ca.png",
+    "static/media/image.jpg": "/portfolio-react-app/static/media/image.7642e89af0f22d56c924.jpg",
+    "static/media/twitter-clone-home.png": "/portfolio-react-app/static/media/twitter-clone-home.0386f0cb55eb2aa122f1.png",
+    "static/media/home.png": "/portfolio-react-app/static/media/home.461d23bc12ccdeee5ec3.png",
+    "static/media/memory-game.png": "/portfolio-react-app/static/media/memory-game.6812b0420f2d1a3f4aeb.png",
+    "static/media/shop.png": "/portfolio-react-app/static/media/shop.e48512c1c9beeff5a614.png",
+    "static/media/shopping-home.png": "/portfolio-react-app/static/media/shopping-home.c8886a8236d842f6df51.png",
+    "static/media/weather-app-maldives.png": "/portfolio-react-app/static/media/weather-app-maldives.019f7cc178a162189066.png",
+    "static/media/shop-item.png": "/portfolio-react-app/static/media/shop-item.03cdaaf4e330a020e4cd.png",
+    "static/media/shop-item2.png": "/portfolio-react-app/static/media/shop-item2.b3d81bb8e5fdf095965c.png",
+    "static/media/orange-tape2.png": "/portfolio-react-app/static/media/orange-tape2.df17bf72413d25a4e2c5.png",
+    "static/media/weather.png": "/portfolio-react-app/static/media/weather.6547e9fc103d4d7f8486.png",
+    "static/media/firestore.png": "/portfolio-react-app/static/media/firestore.bae7bc8d96614cbca850.png",
+    "static/media/checkout.png": "/portfolio-react-app/static/media/checkout.15246128893196f36dad.png",
+    "static/media/own-profile.png": "/portfolio-react-app/static/media/own-profile.1ed85a3cabb6b21371c3.png",
+    "static/media/twitter-clone.png": "/portfolio-react-app/static/media/twitter-clone.3ae730d916d5c299498b.png",
+    "static/media/user-profile.png": "/portfolio-react-app/static/media/user-profile.7ad80d5b58458380602d.png",
+    "static/media/feed.png": "/portfolio-react-app/static/media/feed.cf7e7799581a4cce351d.png",
+    "static/media/auth.png": "/portfolio-react-app/static/media/auth.5dcfb21ea97bbd481535.png",
+    "static/media/likes.png": "/portfolio-react-app/static/media/likes.d7fbda9b9fe5713dffe4.png",
+    "static/media/replies.png": "/portfolio-react-app/static/media/replies.16ac4326746010d48fda.png",
+    "static/media/modal.png": "/portfolio-react-app/static/media/modal.8ffd5dab9dac190eacd5.png",
+    "index.html": "/portfolio-react-app/index.html",
+    "main.e7a5e937.css.map": "/portfolio-react-app/static/css/main.e7a5e937.css.map",
+    "main.8478f860.js.map": "/portfolio-react-app/static/js/main.8478f860.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7a5e937.css",
+    "static/js/main.8478f860.js"
+  ]
+}
